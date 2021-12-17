@@ -2,5 +2,5 @@
 
 I implemented an AI tarined snake game , and **added static and moving obstacles** to it to see how the agent performs .
 
-All credit to the original game goes to https://github.com/python-engineer/snake-ai-pytorch .
+All credits to the original game goes to https://github.com/python-engineer/snake-ai-pytorch .
 
